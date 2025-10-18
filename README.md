@@ -18,7 +18,7 @@ It is an online store where you can create an account, log in, browse sections a
 
 * **🐱 Cat Breeds Explorer**<br>
 
-Fetches detailed cat breed data from a public API.
+** Fetches detailed cat breed data from a public API.
 
 Displays each cat’s image, name, origin, and temperament.
 
