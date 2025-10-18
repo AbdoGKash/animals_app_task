@@ -55,3 +55,20 @@ It is an online store where you can create an account, log in, browse sections a
   Includes image, description, life span, and other attributes.
 
   Clean layout optimized for readability and user engagement.
+
+
+# 🎨 UI
+
+<img src="https://github.com/user-attachments/assets/1afe48f8-5455-46d5-8679-d887708eabb3" width="200">
+<img src="https://github.com/user-attachments/assets/ec02e484-5b5a-4bd7-8f55-b41aea2b8ccf" width="200">
+<img src="https://github.com/user-attachments/assets/7a0ee93f-1a6d-4593-8c9e-58dc00e0f0ee" width="200">
+<img src="https://github.com/user-attachments/assets/3c6db2fd-911a-41cc-9ac9-74a1973c2abd" width="200">
+<img src="https://github.com/user-attachments/assets/1ac1b04e-0474-4e87-b1f8-cf329a7e3efa" width="200">
+<img src="https://github.com/user-attachments/assets/cd9de49d-7b9f-4b72-b6a3-78aeb561681d" width="200">
+
+
+
+
+
+
+  
