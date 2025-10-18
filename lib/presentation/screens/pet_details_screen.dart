@@ -118,7 +118,6 @@ class PetDetailsScreen extends StatelessWidget {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    // الاسم والسعر والمسافة
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
@@ -156,7 +155,6 @@ class PetDetailsScreen extends StatelessWidget {
                     ),
                     const SizedBox(height: 16),
 
-                    // بيانات الحيوان (جنس - عمر - وزن)
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
@@ -167,7 +165,6 @@ class PetDetailsScreen extends StatelessWidget {
                     ),
                     const SizedBox(height: 20),
 
-                    // العنوان About
                     const Text(
                       'About:',
                       style: TextStyle(
@@ -194,7 +191,6 @@ class PetDetailsScreen extends StatelessWidget {
             ),
           ),
 
-          // زر Adopt me
           Container(
             padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
             width: double.infinity,
@@ -222,7 +218,6 @@ class PetDetailsScreen extends StatelessWidget {
     );
   }
 
-  // ويدجت كارت للمعلومات (Gender / Age / Weight)
   static Widget _infoCard(String title, String value) {
     return Expanded(
       child: Container(
