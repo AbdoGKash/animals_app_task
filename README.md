@@ -20,38 +20,38 @@ It is an online store where you can create an account, log in, browse sections a
 
   Fetches detailed cat breed data from a public API.
 
-Displays each cat’s image, name, origin, and temperament.
+  Displays each cat’s image, name, origin, and temperament.
 
-Smooth loading with placeholders for better user experience.
+  Smooth loading with placeholders for better user experience.
 
 * **🚀 Splash & Onboarding Screens**<br>
 
-Elegant splash screen introducing the app.
+  Elegant splash screen introducing the app.
 
-Interactive onboarding flow to guide first-time users through the app’s main features.
+  Interactive onboarding flow to guide first-time users through the app’s main features.
 
-Simple, responsive, and modern UI design.
+  Simple, responsive, and modern UI design.
 
 * **🏠 Home Screen**<br>
 
-Displays a scrollable list of cat breeds fetched from the API.
+  Displays a scrollable list of cat breeds fetched from the API.
 
-Built with clean architecture and efficient API handling.
+  Built with clean architecture and efficient API handling.
 
-Pull-to-refresh support and proper error handling.
+  Pull-to-refresh support and proper error handling.
 
 * **❤️ Favorites Screen**<br>
 
-Allows users to add or remove cats from their favorites list.
+  Allows users to add or remove cats from their favorites list.
 
-Displays a saved collection of favorite cats for quick access.
+  Displays a saved collection of favorite cats for quick access.
 
-Local persistence so favorites stay saved even after restarting the app.
+  Local persistence so favorites stay saved even after restarting the app.
 
 * **📱 Cat Details Screen**<br>
 
-Shows in-depth information about a selected cat breed.
+  Shows in-depth information about a selected cat breed.
 
-Includes image, description, life span, and other attributes.
+  Includes image, description, life span, and other attributes.
 
-Clean layout optimized for readability and user engagement.
+  Clean layout optimized for readability and user engagement.
